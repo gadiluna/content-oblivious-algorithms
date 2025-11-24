@@ -63,5 +63,5 @@ Ports are local to a node; they only need to be unique per endpoint. Delays are 
 Verbose modes append network/process events to `log.txt` (or experiment-specific files) to aid debugging and reproducibility.
 
 ## References
-- [c44] Jérémie Chalopin, Yi-Jun Chang, Lyuting Chen, Giuseppe Antonio Di Luna, Haoran Zhou: Content-Oblivious Leader Election in 2-Edge-Connected Networks. DISC 2025: 21:1-21:22.
-- [c43] Jérémie Chalopin, Yi-Jun Chang, Lyuting Chen, Giuseppe Antonio Di Luna, Haoran Zhou: Brief Announcement: Non-Uniform Content-Oblivious Leader Election on Oriented Asynchronous Rings. DISC 2025: 51:1-51:7.
+- Jérémie Chalopin, Yi-Jun Chang, Lyuting Chen, Giuseppe Antonio Di Luna, Haoran Zhou: Content-Oblivious Leader Election in 2-Edge-Connected Networks. DISC 2025: 21:1-21:22.
+- Jérémie Chalopin, Yi-Jun Chang, Lyuting Chen, Giuseppe Antonio Di Luna, Haoran Zhou: Brief Announcement: Non-Uniform Content-Oblivious Leader Election on Oriented Asynchronous Rings. DISC 2025: 51:1-51:7.
