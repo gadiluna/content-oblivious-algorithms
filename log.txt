@@ -1,0 +1,30 @@
+Process 6 with ID 22 executing ChekAlone
+Process 6:22 executing CancelMessages
+Process 6:22 executing UnorientedRelayAndWaitTermination
+Process 2 with ID 30 executing ChekAlone
+Process 2:30 executing CancelMessages
+Process 2:30 executing UnorientedRelayAndWaitTermination
+Process 5 with ID 44 executing ChekAlone
+Process 5:44 executing CancelMessages
+Process 5:44 executing UnorientedRelayAndWaitTermination
+Process 1 with ID 84 executing ChekAlone
+Process 1:84 executing CancelMessages
+Process 1:84 executing UnorientedRelayAndWaitTermination
+Process 7 with ID 88 executing ChekAlone
+Process 7:88 executing CancelMessages
+Process 7:88 executing UnorientedRelayAndWaitTermination
+Process 3 with ID 100 executing ChekAlone
+Process 3:100 executing CancelMessages
+Process 3:100 executing UnorientedRelayAndWaitTermination
+Process 4 with ID 148 executing ChekAlone
+Process 4:148 executing CancelMessages
+Process 4:148 executing UnorientedRelayAndWaitTermination
+Process 0 with ID 152 executing ChekAlone
+Process 1:84 status: Non-Leader
+Process 2:30 status: Non-Leader
+Process 3:100 status: Non-Leader
+Process 4:148 status: Non-Leader
+Process 5:44 status: Non-Leader
+Process 6:22 status: Non-Leader
+Process 7:88 status: Non-Leader
+Process 0:152 status: Leader
