@@ -8,11 +8,7 @@ from network import GraphNetwork
 
 
 class LeaderElection2Connected:
-    """
-    Async implementation of the non-uniform leader election algorithm for 2-edge-connected graphs.
-    The logic follows the pseudocode in the provided proof, preserving the counting and DFS
-    notification phases with content-oblivious pulses.
-    """
+ 
 
     def __init__(
         self,
